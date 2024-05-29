@@ -1,0 +1,68 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "title": "Air Max 270",
+      "brand": "Nike",
+      "price": "250",
+      "description": "The Nike Air Max 270 features Nike's biggest heel Air unit yet for a super-soft ride.",
+      "image_url": "https://cdn.runrepeat.com/storage/gallery/product_primary/28278/nike-air-max-270-lab-review-20893746-main.webp"
+    },
+    {
+      "id": "2",
+      "title": "Ultraboost 21",
+      "brand": "Adidas",
+      "price": 180,
+      "description": "The Ultraboost 21 brings you comfort and energy with every step.",
+      "image_url": "https://m.media-amazon.com/images/I/7103ozSzzNL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Classic Leather",
+      "brand": "Reebok",
+      "price": 75,
+      "description": "The Reebok Classic Leather is a timeless silhouette that never goes out of style.",
+      "image_url": "https://m.media-amazon.com/images/I/51M8ZyoqsFL._AC_SL1000_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Chuck Taylor All Star",
+      "brand": "Converse",
+      "price": 55,
+      "description": "The Converse Chuck Taylor All Star is an iconic sneaker that's perfect for everyday wear.",
+      "image_url": "https://i.ebayimg.com/images/g/YPoAAOSwn0xfYjbS/s-l1200.webp"
+    },
+    {
+      "id": "5",
+      "title": "Gel-Kayano 27",
+      "brand": "Asics",
+      "price": 160,
+      "description": "The Asics Gel-Kayano 27 offers excellent stability and comfort for long runs.",
+      "image_url": "https://images.asics.com/is/image/asics/1011A767_021_SR_RT_GLB?$sfcc-product$"
+    },
+    {
+      "id": "7",
+      "title": "dfdasew",
+      "brand": "dsfer",
+      "price": "215",
+      "description": "werwij jfoasdjf sdkfjasj",
+      "image_url": "https://storage.apex4u.com/1667eaa1-db5c-479f-bfe6-85a35524331e.JPG"
+    },
+    {
+      "id": "10",
+      "title": "ewrwedfg ",
+      "brand": "sdfwrw swrewr",
+      "price": "548",
+      "description": "weraew sdfdsf",
+      "image_url": "https://storage.apex4u.com/1667eaa1-db5c-479f-bfe6-85a35524331e.JPG"
+    },
+    {
+      "id": "11",
+      "title": "kljflk",
+      "brand": "kdsei",
+      "price": "1050",
+      "description": "skdfldkjslk sdklfjdklsfj",
+      "image_url": "https://storage.apex4u.com/1667eaa1-db5c-479f-bfe6-85a35524331e.JPG"
+    }
+  ]
+}
